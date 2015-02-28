@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Meu nome é Uilian Souza, sou um desenvolvedor de software e empreendedor.
 
-### More Information
+### Um pouco mais
 
-A place to include any other types of information that you'd like to include about yourself. 
+Atuei em diversos projetos de software, algumas vezes como analista, ou arquiteto, ou desenvolvedor, ou líder técnico, e até gerente de projetos. Às vezes tudo de uma vez só.
 
-### Contact me
+Geralmente crio sistemas para WEB. Geralmente em Java.
+
+### Onde
+
+Fisicamente, no Brasil, RS, Porto Alegre.
+
+Virtualmente, em qualquer lugar onde tiver internet.
 
 [uilian@gmail.com](mailto:uilian@gmail.com)
