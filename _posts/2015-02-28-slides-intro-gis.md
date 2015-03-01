@@ -11,4 +11,4 @@ tags:
 
 Slides da minha apresentação introdutória sobre tecnologias e técnicas de geoprocessamento.
 
-<iframe src="{{ site.baseurl }}/presentations/gis/intro-gis/index.html" width="400" />
+<iframe src="{{ site.baseurl }}/presentations/gis/intro-gis/index.html" />
