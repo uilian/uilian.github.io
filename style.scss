@@ -120,6 +120,12 @@ img {
   color: $gray;
 }
 
+.item_tags {
+  clear: both;
+  font-size: 11px;
+  color: $gray;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
