@@ -14,10 +14,10 @@ O ambiente de trabalho interfere **muito** na produtividade dos profissionais, i
 
 **No meu caso**, duas coisas são básicas: uma boa cadeira, e um monitor extra. Numerosos estudos demonstram que o uso de pelo menos dois monitores melhoram a produtividade, veja alguns links: 
 
-*[Lifehacker - Dual Monitors Increase Productivity](http://lifehacker.com/#!168488/dual-monitors-increase-productivity)
-*[Múltiplos monitores e a produtividade](http://blog.tecnologiaqueinteressa.com/2010/08/multiplos-monitores-mais-produtividade.html)
-*[Multiple monitor productivity: fact or fiction](http://dubroy.com/blog/multiple-monitor-productivity-fact-or-fiction/)
-*[Microsoft Research about working with two screens](http://research.microsoft.com/en-us/news/features/vibe.aspx)
+* [Lifehacker - Dual Monitors Increase Productivity](http://lifehacker.com/#!168488/dual-monitors-increase-productivity)
+* [Múltiplos monitores e a produtividade](http://blog.tecnologiaqueinteressa.com/2010/08/multiplos-monitores-mais-produtividade.html)
+* [Multiple monitor productivity: fact or fiction](http://dubroy.com/blog/multiple-monitor-productivity-fact-or-fiction/)
+* [Microsoft Research about working with two screens](http://research.microsoft.com/en-us/news/features/vibe.aspx)
 
 O fato é que acredite ou não, este tipo de **“regalia”** ainda é muito rara no Brasil, e quando acontece é porque o funcionário tomou a iniciativa de alguma forma.
 
