@@ -9,7 +9,6 @@ tags:
 - dica
 - trabalho
 ---
-
 O ambiente de trabalho interfere **muito** na produtividade dos profissionais, isto é óbvio, e algumas pequenas ações podem melhorar de formas muitas vezes inesperadas a motivação e conseqüentemente a produtividade dos funcionários.
 
 **No meu caso**, duas coisas são básicas: uma boa cadeira, e um monitor extra. Numerosos estudos demonstram que o uso de pelo menos dois monitores melhoram a produtividade, veja alguns links: 

@@ -8,10 +8,10 @@ tags:
 - grails
 - java
 ---
-
 Slides da minha apresentação introdutória sobre Grails e Groovy. Cobre a versão 2.4 do framework.
 
 <iframe src="{{ site.baseurl }}/presentations/grails/intro-grails/index.html">
 </iframe>
 
-<a href="{{ site.baseurl }}/presentations/grails/intro-grails/">Ver slides</a>
+
+[Ver slides]({{ site.baseurl }}/presentations/grails/intro-grails/ "Introdução ao Grails")
