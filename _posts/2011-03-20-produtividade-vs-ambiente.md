@@ -11,6 +11,8 @@ tags:
 ---
 O ambiente de trabalho interfere **muito** na produtividade dos profissionais, isto é óbvio, e algumas pequenas ações podem melhorar de formas muitas vezes inesperadas a motivação e conseqüentemente a produtividade dos funcionários.
 
+![Multi-Monitor-Extreme](http://cdn.overclock.net/5/5d/5d68138d_Multiple-Monitors-8.jpeg "Exagero de monitores")
+
 **No meu caso**, duas coisas são básicas: uma boa cadeira, e um monitor extra. Numerosos estudos demonstram que o uso de pelo menos dois monitores melhoram a produtividade, veja alguns links: 
 
 * [Lifehacker - Dual Monitors Increase Productivity](http://lifehacker.com/#!168488/dual-monitors-increase-productivity)

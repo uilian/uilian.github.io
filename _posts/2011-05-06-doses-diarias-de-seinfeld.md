@@ -7,10 +7,9 @@ tags:
 - standup
 - seinfeld
 - humor
-tumblr_url: http://www.uilian.com/post/5247245043/doses-diarias-de-seinfeld
 ---
-O comediante Jerry Seinfeld resolveu incentivar as futuras gerações de comediantes e começou hoje a disponibilizar o seu acervo pessoal de gravações feitas em suas aparições na TV, algumas que são raridades de 30 anos atrás.
+O comediante **Jerry Seinfeld** resolveu incentivar as futuras gerações de comediantes e começou hoje a disponibilizar o seu acervo pessoal de gravações feitas em suas aparições na TV, algumas que são raridades de 30 anos atrás.
 
 São 3 vídeos curtos de 30 segundos mais ou menos por dia, que eu não sei se vão continuar online para busca, por isso já gravei os de hoje :-)
 
-Quem é fã não pode perder, vai lá na [Página do Seinfeld](http://www.jerryseinfeld.com)
+Quem é fã não pode perder, vai lá na [Página do Seinfeld](http://www.jerryseinfeld.com).
