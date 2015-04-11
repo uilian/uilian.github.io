@@ -66,6 +66,6 @@ Ok, agora para ficar melhor, só se tivesse múltiplas abas. Aí entra em cena u
 
 **Dica 2**, ainda na janela *Settings*, a opção *“Appearance > More"* oferece controle sobre a transparência da janela. Just saying ;)
 
-Pronto! No próximo artigo vou mostrar como eu uso esta instalação na prática :)
+![Transparencia](https://dl.dropboxusercontent.com/u/7224356/blog/images/console.png "Transparencia")
 
-Dúvidas, sugestões? Deixe nos comentários!
+Pronto! Dúvidas, sugestões? Deixe nos comentários!
