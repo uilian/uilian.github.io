@@ -11,7 +11,7 @@ tags:
 - miniarcade
 - mame
 ---
-Eu admito que sou aficcionado por games antigos, até comprei um [Dingoo]({% post_url 2011-05-08-nao-e-um-review-do-dingoo-a320 %} "Dingo A320"), mas por melhor que seja, ele não reproduz a experiência de jogar em um **fliperama**, pelo menos não como o **Mini Arcade** \o/
+Eu admito que sou aficcionado por games antigos, até comprei um [Dingoo]({% post_url 2011-05-08-nao-e-um-review-do-dingoo-a320 %}), mas por melhor que seja, ele não reproduz a experiência de jogar em um **fliperama**, pelo menos não como o **Mini Arcade** \o/
 
 ![Mini-Arcade](http://theretromachine.com/wp-content/gallery/miniarcade/mini-arcade-marcelo.jpg "Miniarcade")
 
