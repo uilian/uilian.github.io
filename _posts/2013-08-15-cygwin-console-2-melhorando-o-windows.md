@@ -33,13 +33,17 @@ Siga o passo-a-passo apresentado, utilizando as seguintes configurações:
 
 
 ### Dicas:
-Coloque ou (descomente) a seguinte linha no ** ~/.bashrc **, melhora a visualização dos arquivos e pastas: 
+Coloque ou (descomente) a seguinte linha no **~/.bashrc**, melhora a visualização dos arquivos e pastas: 
 
-    alias ls=’ls -hF —color=tty’    
+``` shell
+alias ls=’ls -hF —color=tty’
+```
 
 Para quem acessa a internet através de um proxy (normal em ambiente coorporativo) coloque a seguinte linha no final do mesmo arquivo **~/.bashrc**  *(não esqueça de substituir usuário, senha, IP e porta)*: 
 
-    alias curl=”curl -U username:password —proxy-ntlm —proxy ip-servidor-proxy:porta-servidor-proxy”
+``` shell
+ alias curl=”curl -U username:password —proxy-ntlm —proxy ip-servidor-proxy:porta-servidor-proxy”
+```
 
 Facilite a sua vida, crie links simbólicos *(“ln -s”)* no seu diretório inicial para pastas que você utiliza constantemente.
 
