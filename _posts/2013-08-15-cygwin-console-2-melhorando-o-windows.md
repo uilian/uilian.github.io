@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Cygwin + Console 2 - Melhorando o Windows
-date: '2013-08-15T15:48:00-03:00'
-tags: [programming,cygwin,console,tools]
+title: "Cygwin + Console 2 - Melhorando o Windows"
+date: "2013-08-15T15:48:00-03:00"
+tags: 
+  - programming
+  - cygwin
+  - console
+  - tools
+published: true
 ---
+
 Quem trabalha com desenvolvimento utilizando Windows não precisa abrir mão das facilidades que um bom conjunto de ferramentas de console podem oferecer.
 
 Neste post vou mostrar como instalar e configurar duas das minhas ferramentas favoritas, **Cygwin** e **Console 2**.
@@ -36,13 +42,13 @@ Siga o passo-a-passo apresentado, utilizando as seguintes configurações:
 Coloque ou (descomente) a seguinte linha no **~/.bashrc** , melhora a visualização dos arquivos e pastas: 
 
 ```shell
-    alias ls=’ls -hF —color=tty’
+alias ls=’ls -hF —color=tty’
 ```
 
 Para quem acessa a internet através de um proxy (normal em ambiente coorporativo) coloque a seguinte linha no final do mesmo arquivo **~/.bashrc**  *(não esqueça de substituir usuário, senha, IP e porta)*: 
 
 ```shell
-     alias curl=”curl -U username:password —proxy-ntlm —proxy ip-servidor-proxy:porta-servidor-proxy”
+alias curl=”curl -U username:password —proxy-ntlm —proxy ip-servidor-proxy:porta-servidor-proxy”
 ```
 
 Facilite a sua vida, crie links simbólicos *(“ln -s”)* no seu diretório inicial para pastas que você utiliza constantemente.
