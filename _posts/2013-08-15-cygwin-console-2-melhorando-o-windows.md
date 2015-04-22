@@ -10,6 +10,12 @@ tags:
 published: true
 ---
 
+>**UPDATE 21/04/2015**
+>
+>Achei um substituto espetacular para o **Console 2** , trata-se do **ConsoleZ**, um fork criado para resolver problemas como a falta da função maximizar, e adiciona as possibilidades de buscar e fazer split dentro de uma aba. Veja mais detalhes aqui: [ConsoleZ](https://github.com/cbucher/console).
+>O resto do artigo segue valendo :)
+
+
 Quem trabalha com desenvolvimento utilizando Windows não precisa abrir mão das facilidades que um bom conjunto de ferramentas de console podem oferecer.
 
 Neste post vou mostrar como instalar e configurar duas das minhas ferramentas favoritas, **Cygwin** e **Console 2**.
