@@ -25,7 +25,7 @@ footer-links:
   instagram: 
   linkedin: uilian
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: rss# just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: uilian
   stackoverflow: users/619530/uilian
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"

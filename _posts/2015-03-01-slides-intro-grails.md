@@ -8,10 +8,8 @@ tags:
 - grails
 - java
 ---
-Slides da minha apresentação introdutória sobre Grails e Groovy. Cobre a versão 2.4 do framework.
+Slides da minha apresentação sobre **Grails 2.4 e Groovy**, espero que gostem :)
 
-<iframe src="{{ site.baseurl }}/presentations/grails/intro-grails/index.html">
-</iframe>
-
+[<img src="{{ site.baseurl }}/images/grails101.png" alt="Grails 101" />]({{ site.baseurl }}/presentations/grails/intro-grails/index.html)
 
 [Ver slides]({{ site.baseurl }}/presentations/grails/intro-grails/ "Introdução ao Grails")

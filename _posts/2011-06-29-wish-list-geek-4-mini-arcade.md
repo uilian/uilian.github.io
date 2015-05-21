@@ -13,11 +13,11 @@ tags:
 ---
 Eu admito que sou aficcionado por games antigos, até comprei um [Dingoo]({% post_url 2011-05-08-nao-e-um-review-do-dingoo-a320 %}), mas por melhor que seja, ele não reproduz a experiência de jogar em um **fliperama**, pelo menos não como o **Mini Arcade** \o/
 
-![Mini-Arcade](http://theretromachine.com/wp-content/gallery/miniarcade/mini-arcade-marcelo.jpg "Miniarcade")
-
 O que você vê quando liga o **Mini Arcade** é o front-end *HyperSpin*, ou seja, basicamente é o **Mame** (o super conhecido multi-emulador que todos adoram) configurado com um tema para deixar mais bonitinho. 
 
 A máquina tem tudo que se espera de um arcade, desde os botões típicos, a *palanca* de controle com bolota, até a entrada para fichas (sim, funciona com fichas!).
+
+![Mini-arcade]({ site.baseurl }}/images/mini-arcade.jpg "Miniarcade")
 
 Mas também tem umas modernidades legais, afinal trata-se de um computador atual. A tela é um LCD 15 polegadas, tem portas USB que servem tanto para copiar novos jogos velhos, ou adaptar controles (para modo multplayer, por exemplo). Pura diversão!
 

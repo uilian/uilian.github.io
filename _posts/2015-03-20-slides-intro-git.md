@@ -8,8 +8,10 @@ tags:
 - gitflow
 - basic
 ---
-Slides da minha apresentação **introdutória sobre Git**. Cobre o bem básico e o básico, foi pensado para incentivar os iniciantes no assunto :)
+Slides da minha apresentação **introdutória sobre Git**. 
 
-<iframe src="{{ site.baseurl }}/presentations/git/basic-git/index.html"></iframe>
+Cobre o básico do Git e do Gitflow, e foi pensado para dar aquele empurrãozinho na galera que ainda tem medo do Git :)
+
+[<img src="{{ site.baseurl }}/images/git101.png" alt="Git 101" />]({{ site.baseurl }}/presentations/git/basic-git/index.html)
 
 [Ver slides]({{ site.baseurl }}/presentations/git/basic-git/ "Git 101")

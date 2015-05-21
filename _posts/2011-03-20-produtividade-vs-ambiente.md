@@ -11,14 +11,15 @@ tags:
 ---
 O ambiente de trabalho interfere **muito** na produtividade dos profissionais, isto é óbvio, e algumas pequenas ações podem melhorar de formas muitas vezes inesperadas a motivação e conseqüentemente a produtividade dos funcionários.
 
-![Multi-Monitor-Extreme](http://cdn.overclock.net/5/5d/5d68138d_Multiple-Monitors-8.jpeg "Exagero de monitores")
-
 **No meu caso**, duas coisas são básicas: uma boa cadeira, e um monitor extra. Numerosos estudos demonstram que o uso de pelo menos dois monitores melhoram a produtividade, veja alguns links: 
 
 * [Lifehacker - Dual Monitors Increase Productivity](http://lifehacker.com/#!168488/dual-monitors-increase-productivity)
 * [Múltiplos monitores e a produtividade](http://blog.tecnologiaqueinteressa.com/2010/08/multiplos-monitores-mais-produtividade.html)
 * [Multiple monitor productivity: fact or fiction](http://dubroy.com/blog/multiple-monitor-productivity-fact-or-fiction/)
 * [Microsoft Research about working with two screens](http://research.microsoft.com/en-us/news/features/vibe.aspx)
+
+
+![Multi-Monitor-Extreme]({{ site.baseurl }}/images/monitors.jpg "Monitors, monitors, monitors!!!")
 
 O fato é que acredite ou não, este tipo de **“regalia”** ainda é muito rara no Brasil, e quando acontece é porque o funcionário tomou a iniciativa de alguma forma.
 
