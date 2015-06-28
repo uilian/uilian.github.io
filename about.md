@@ -18,4 +18,6 @@ Fisicamente, no Brasil, RS, Porto Alegre.
 
 Virtualmente, em qualquer lugar onde tiver internet.
 
-[uilian@gmail.com](mailto:uilian@gmail.com)
+## Entre em contato
+* [uilian at gmail dot com](mailto:uilian@gmail.com)
+* [uilian at Linkedin](http://linkedin.com/in/uilian)
