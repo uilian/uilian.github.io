@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transforme sua ideia em uma estória
-date: '2013-05-16T12:03:12-03:00'
+date: '2015-07-13T07:00:00-03:00'
 tags: [startups, ideia, business]
 ---
 
