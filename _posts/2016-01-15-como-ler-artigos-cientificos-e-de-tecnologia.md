@@ -10,7 +10,7 @@ Ler é provavelmente o **hábito mais saudável e libertador** que alguém pode 
 
 Mas é justamente o *excesso* de informação que acaba causando alguns *inconvenientes*: **o quê** ler? Em quais fontes **posso confiar**? E assim eu vejo que muita gente simplesmente *não sabe ler*, i.e., não sabe **selecionar** o que lê, ou então acaba fazendo leituras muito superficiais, e acabam totalmente dependentes da curadoria dos "*evangelistas*", ou "*rockstars*", ou seja lá como são chamados os "gurus tecnológicos" hoje em dia. Não estou dizendo que acompanhar as ideias de outras pessoas seja algo inerentemente ruim, muitas delas são obviamente competentes, mas é melhor ser capaz de fazer uma leitura crítica por si próprio, e desenvolver suas próprias ideias a respeito de qualquer assunto, e não apenas propagar as análises feitas por outras pessoas. Diversidade é saudável, e leva à evolução e consequentemente é bom para todos, certo? 
 
-Lembrei de um artigo muito bom e que me serviu bastante na época do mestrado, quando tinha que ler literalmente **pilhas** de artigos científicos, trata-se do [Efficient Reading of Papers in Science and Technology][link_article] (Leitura Eficiente de Artigos em Ciência e Tecnologia). Felizmente ele fiel ao que prega, é curto, vai direto ao assunto, e dá dicas preciosas. Então, chega de enrolação :)
+Lembrei de um artigo muito bom e que me serviu bastante na época do mestrado, quando tinha que ler literalmente **pilhas** de artigos científicos, trata-se do [Efficient Reading of Papers in Science and Technology][1] (Leitura Eficiente de Artigos em Ciência e Tecnologia). Felizmente ele fiel ao que prega, é curto, vai direto ao assunto, e dá dicas preciosas. Então, chega de enrolação :)
 
 
 # Leitura Eficiente de Artigos em Ciência e Tecnologia
@@ -21,14 +21,14 @@ Lembrei de um artigo muito bom e que me serviu bastante na época do mestrado, q
  Traduzido por:
   - Uilian R. Souza
 
-## [TLDR][1] Resumo: Como Ler Um Artigo
+## Resumo: Como ler Um Artigo
 - Preparação
   - Lugar tranquilo.
   - Lápis, papel, cópia do artigo.
 - Decidindo o que ler
   - Leia o título e o resumo.
   - Ler, guardar, ou descartar?
-- Leitura "por cima"
+- Leitura superficial
   - O que eles fizeram?
   - "Escaneie" a introdução, cabeçalhos, figuras, definições, conclusões e bibliografia.
   - Considere a credibilidade.
@@ -122,6 +122,4 @@ Se você vê uma correlação com outro trabalho, anote-a na margem. Se você d�
 Quando você tiver digerido um artigo, escreva um resumo breve. Em suas próprias palavras, descreva o que você aprendeu a partir do artigo. Quais foram os pontos principais para você? Mantenha o resumo juntamente do artigo para referência futura. Reagir ao que você está lendo cria um envolvimento emocional com os argumentos. Emoções enfatizam o que é dito, tornando mais fácil de lembrar. Escrever um resumo ajuda a relacionar o artigo àquilo que você já sabe, novamente auxiliando a memória através da amarração do que foi aprendido ao seu próprio conjunto de informações sobre o assunto. O resumo também serve como uma referência quando precisar retornar ao artigo.
 
 
-[TLDR][Nota do tradutor: 'TLDR' não faz parte do artigo original, mas achei que valia a referência atualizada.]
-
-[2]: http://bit.ly/1PvHExq "Hanson Michael J., McNamee Dylan J. Efficient Reading of Papers in Science and Technology - 1999."
+[1]: http://bit.ly/1PvHExq "Hanson Michael J., McNamee Dylan J. Efficient Reading of Papers in Science and Technology - 1999."
