@@ -122,4 +122,4 @@ Se você vê uma correlação com outro trabalho, anote-a na margem. Se você d�
 Quando você tiver digerido um artigo, escreva um resumo breve. Em suas próprias palavras, descreva o que você aprendeu a partir do artigo. Quais foram os pontos principais para você? Mantenha o resumo juntamente do artigo para referência futura. Reagir ao que você está lendo cria um envolvimento emocional com os argumentos. Emoções enfatizam o que é dito, tornando mais fácil de lembrar. Escrever um resumo ajuda a relacionar o artigo àquilo que você já sabe, novamente auxiliando a memória através da amarração do que foi aprendido ao seu próprio conjunto de informações sobre o assunto. O resumo também serve como uma referência quando precisar retornar ao artigo.
 
 
-[1]: http://bit.ly/1PvHExq "Hanson Michael J., McNamee Dylan J. Efficient Reading of Papers in Science and Technology - 1999."
+[1]: https://www.isi.edu/~johnh/TEACHING/CS651/ARCHIVE/Hanson99a.pdf "Hanson Michael J., McNamee Dylan J. Efficient Reading of Papers in Science and Technology - 1999."
