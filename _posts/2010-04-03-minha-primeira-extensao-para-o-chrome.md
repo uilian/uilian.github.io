@@ -18,4 +18,4 @@ Uma mão na roda para aqueles que ficam monitorando a chegada de encomendas do D
 
 Fica o link para quem quiser instalar e testar: [Localizador de Objetos nos Correios](https://chrome.google.com/webstore/detail/localizador-de-objetos-no/knglknpmnnnobciipgadcpbkpcegikhj "Localizador de Objetos nos Correios").
 
-*PS: para quem quiser modificar a seu gosto, o código fonte está liberado no [meu repo no GitHub](http://github.com/uilian/chrome_busca_objetos)*.
+*PS: para quem quiser modificar a seu gosto, o código fonte está liberado no [meu repo no GitHub](https://github.com/uilian/chrome_busca_objetos)*.

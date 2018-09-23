@@ -20,4 +20,4 @@ Virtualmente, em qualquer lugar onde tiver internet.
 
 ## Entre em contato
 * [uilian at gmail dot com](mailto:uilian@gmail.com)
-* [uilian at Linkedin](http://linkedin.com/in/uilian)
+* [uilian at Linkedin](https://linkedin.com/in/uilian)
