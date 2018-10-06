@@ -5,9 +5,7 @@ date: '2018-10-06T07:00:00-03:00'
 tags: [pomodoro, gtd, personal]
 ---
 
-A técnica do [Pomodoro][1] para gerência do tempo já é bem conhecida, tem quem goste, enquanto outros não conseguem se adaptar. Os dois lados tem razão, afinal não existe [bala de prata][2].
-
-Para quem não conhece ou não lembra, a técnica em si é muito simples:
+A técnica do [Pomodoro][1] para gerência do tempo já é bem conhecida, tem quem goste, enquanto outros não conseguem se adaptar. Os dois lados tem razão, afinal não existe bala de prata. Para quem não conhece ou não lembra, a técnica em si é muito simples:
 
 1. Monte uma lista de tarefas.
 2. Escolha uma tarefa para trabalhar ininterruptamente.
@@ -25,22 +23,24 @@ A ideia de utilizar um timer físico é também para dar a visibilidade que trab
 
 O ponto principal da técnica é que ela ajuda a manter o **foco**, uma vez que impõe atenção ininterrupta, e reforça a **sensação de que progresso** está sendo feito, o que melhora a motivação. 
 
-Eu utilizo esta técnica há muitos anos, e para mim ela é bastante efetiva. Infelizmente não consigo utilizá-la em todos os meus ambientes de trabalho, nem para todos os tipos de trabalho. Por exemplo, é bastante difícil conciliar trabalho em equipe com a técnica do Pomodoro porque interrupções são praticamente inevitáveis. Então acabo utilizando para projetos pessoais e estudos.
+Eu utilizo esta técnica há muitos anos, e para mim ela é bastante efetiva. Infelizmente não consigo utilizá-la em todos os meus ambientes de trabalho, nem para todos os tipos de trabalho. Por exemplo, é bastante difícil conciliar trabalho em equipe com a técnica do Pomodoro porque interrupções são praticamente inevitáveis. 
 
-Um outro fator que ao meu ver coibe o uso de Pomodoros em ambientes de trabalho com mais pessoas, é o fato de que os timers são **barulhentos**. Eles fazem tic-tac e tocam um alarme igual ao de despertador da vovó ;) Isso se torna chato até em casa, principalmente à noite quando tudo está quieto e silencioso.
+Além disso, se você usa o mesmo timer para marcar seus pomodoros e suas pausas, o timer estar ativo não é lá um grande indicador de que você não pode ser interrompido. 
 
-Além disso, se você usa o mesmo timer para marcar seus pomodoros e suas pausas, o timer estar ativo não é lá um grande indicador de que você não pode ser interrompido.
+Um outro fator que ao meu ver restringe o uso do pomodoro no ambiente de trabalho com mais pessoas, é o fato de que os timers são **barulhentos**. Eles fazem tic-tac e tocam um alarme igual ao de *despertador da vovó* ;) Isso se torna chato até mesmo em casa, principalmente à noite quando tudo está silencioso.
 
-Bom, eu pensei sobre este problema durante alguns pomodoros, e resolvi (para mim): resolvi utilizar **ampulhetas** ao invés do *tomatinho*! Comprei três, uma para cada evento, com cores diferentes:
+Na prática, acabo utilizando mais para projetos pessoais e estudos.
+
+Bom, eu pensei sobre estes problemas durante alguns pomodoros, e resolvi utilizar **ampulhetas** ao invés do *tomatinho*! Comprei três, uma para cada evento, com cores diferentes:
 
 <img src="{{ site.baseurl }}/images/ampulhetas.jpg" alt="Pomodoro Sandglass" />
 
-Elas são visuais, silenciosas, e no quesito marcar o evento que está ocorrendo, muito superiores: dependendo da cor, é possível saber exatamente o que está rolando, pausa ou trabalho.
+Elas são visuais, silenciosas, e no quesito demarcar o evento que está ocorrendo, muito superiores: dependendo da cor, é possível saber exatamente o que está rolando, pausa ou trabalho.
 
-Como pode-se notar pela foto, eu utilizo tempos um pouco diferentes do recomendados, 30 minutos para pomodoros, dez minutos para pausas longas. 
+Como pode-se notar pela foto, eu utilizo tempos um pouco diferentes do recomendados, 30 minutos para pomodoros e 10 minutos para pausas longas. 
 
 Bom, era isso que eu tinha para compartilhar por hoje, bons pomodoros para todos!
 
 
 [1]: https://en.wikipedia.org/wiki/Pomodoro_Technique "Pomodoro Technique"
-[2]: https://en.wikipedia.org/wiki/No_Silver_Bullet "No Silver Bullet – Essence and Accident in Software Engineering" 
+[2]: https://en.wikipedia.org/wiki/No_Silver_Bullet "No Silver Bullet – Essence and Accident in Software Engineering"
