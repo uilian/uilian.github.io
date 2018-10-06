@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pomodoro Technique com Ampulhetas
-date: '2018-10-15T07:00:00-03:00'
+date: '2018-10-06T07:00:00-03:00'
 tags: [pomodoro, gtd, personal]
 ---
 
