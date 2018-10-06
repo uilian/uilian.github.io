@@ -5,7 +5,7 @@ date: '2018-10-06T07:00:00-03:00'
 tags: [pomodoro, gtd, personal]
 ---
 
-A técnica do [Pomodoro][1] para gerência do tempo já é bem conhecida, tem quem goste, enquanto outros não conseguem se adaptar. Os dois lados tem razão, afinal [não existe bala de prata][2]. 
+A técnica do [Pomodoro][1] para gerência do tempo já é bem conhecida, tem quem goste, enquanto outros não conseguem se adaptar. Os dois lados tem razão, afinal não existe [bala de prata][2].
 
 Para quem não conhece ou não lembra, a técnica em si é muito simples:
 
