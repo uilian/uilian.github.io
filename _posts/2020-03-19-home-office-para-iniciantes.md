@@ -6,6 +6,8 @@ tags: [home, office, trabalho, remoto, gtd, personal, produtividade]
 image: /images/home-office.jpg
 ---
 
+<img src="{{ site.baseurl }}/images/home-office.jpg" alt="Home Office 101" />
+
 Você está fazendo **home office** pela primeira vez e está gostando, bem vindo e parabéns, espero que continue assim! Eu trabalho remotamente e só vi vantagens até hoje.
 
 Em geral não tem mistério nenhum: **evite** ao máximo as distrações, apenas faça seu trabalho como faria no escritório normalmente, e provavelmente você vai acabar fazendo tudo até melhor do que faria no escritório. 
