@@ -13,7 +13,7 @@ Versão revisada e atualizada, código está muito mais limpo e bem organizado, 
 
 Faz tempo que eu queria testar as features de geoprocessamento do [MongoDB][1], então resolvi criar um projetinho simples para estudo usando [NodeJS][3] + [Express][4], e o [LeafletJS][2] para visualização dos mapas do [Open Street Maps][7] e [MapBox][8].
 
-<img src="{{ site.baseurl }}/images/mongo-node-geo.PNG" />                                    
+<img src="{{ site.baseurl }}/images/mongo-node-geo.png" />
 
 O objetivo é simplesmente encontrar pontos de WiFi liberados em Porto Alegre para uma determinada coordenada geográfica e raio. Os dados dos pontos de acesso foram carregados no MongoDB, a partir de uma listagem disponibilizada pela Prefeitura de Porto Alegre no site [DataPoA][5]. Confere aí:
 
