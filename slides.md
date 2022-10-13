@@ -4,16 +4,22 @@ title: Slides
 permalink: /slides/
 ---
 
-Local onde vou disponibilizando slides de apresentações que fiz sobre tecnologias que me interessam ou considero úteis.
+Slides de algumas apresentações e mini-cursos que eu ministrei,
+sobre assuntos variados que despertaram meu interesse em algum 
+ponto da minha carreira.
 
 ### Grails
 
 [Introdução ao Grails]({{ site.baseurl }}/presentations/grails/intro-grails/).
 
-### GIS
+### GIS (GEOGRAPHIC INFORMATION SYSTEM)
 
 [GIS * - Introdução às ferramentas e técnicas]({{ site.baseurl }}/presentations/gis/intro-gis/).
 
-### Git
+### Introdução ao Git
 
 [Git 101]({{ site.baseurl }}/presentations/git/basic-git/).
+
+### Slides do Curso de Pentaho 7.1
+
+[Pentaho 7.1]({{ site.baseurl }}/presentations/pentaho/pentaho/).
